@@ -61,4 +61,4 @@ I'm Suraj Maurya, a professional in web development and data science with a uniq
 
 ## 📄 Resume
 
-[View Resume](https://drive.google.com/file/d/1BHYzSlnBNJJJ2ybAxWQ_oHs24g3AuaW7/view?usp=drive_link)
+[View Resume](https://drive.google.com/file/d/1BHYzSlnBNJJJ2ybAxWQ_oHs24g3AuaW7/preview)
