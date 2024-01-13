@@ -1,4 +1,4 @@
-# 🚀 Your Suraj Maurya
+# 🚀 Suraj Maurya
 
 Welcome to my GitHub Dashboard! Here you'll find a snapshot of my skills, recent projects, and GitHub statistics.
 
