@@ -54,8 +54,8 @@ I'm Suraj Maurya, a professional in web development and data science with a uniq
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [Suraj Maurya on LinkedIn](https://www.linkedin.com/in/suraj-mauryaa/)
-- **GitHub:** [Samrat-Suraj on GitHub](https://github.com/Samrat-Suraj)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/suraj-mauryaa/)
+- **GitHub:** [GitHub](https://github.com/Samrat-Suraj)
 - **Email:** samrat0suraj@gmail.com
 - **Portfolio Website:** [My Portfolio](https://samrat-suraj.github.io)
 
