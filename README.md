@@ -26,32 +26,6 @@ I'm Suraj Maurya, a professional in web development and data science with a uniq
 - **Database:**
   - MongoDB, MySQL (Advanced)
 
-### Data Science
-
-- **Languages:**
-  - Python (NumPy, Pandas, Scikit-Learn) (Advanced)
-
-- **Machine Learning:**
-  - TensorFlow, PyTorch (Intermediate)
-
-- **Data Visualization:**
-  - Matplotlib, Seaborn (Advanced)
-  - D3.js (Intermediate)
-
-## 🚀 Recent Projects
-
-### Predictive Analysis on Stock Market Trends
-
-- **Description:** Developed a model to predict stock prices using historical data and machine learning algorithms like LSTM (Long Short-Term Memory) or Random Forest.
-
-![Project Image 1](https://samrat-suraj.github.io/assets/jpeg/1.jpeg)
-
-### Recommendation System
-
-- **Description:** Built a recommendation engine (similar to those used by Netflix or Amazon) that suggests products or content to users based on their preferences and behavior.
-
-![Project Image 2](https://samrat-suraj.github.io/assets/jpeg/2.webp)
-
 ## 🌐 Connect with Me
 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/suraj-mauryaa/)
