@@ -2,7 +2,6 @@
 👋 Hey there! Welcome to my GitHub profile!<br><br>
 
 I'm Suraj Maurya, a motivated Full Stack Web Developer with expertise in JavaScript, React.js, Node.js, Express.js, and MongoDB. Coming from a vehicle auditing background, I bring strong analytical skills and attention to detail. Passionate about coding, I have built hands-on projects showcasing user-friendly interfaces, API development, and real-time functionalities.<br><br>
-
 📚 Education:<br>
 Bachelor of Science (Honors) - Mathematics.<br><br>
 
