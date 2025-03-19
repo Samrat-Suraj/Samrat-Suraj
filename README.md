@@ -1,7 +1,7 @@
 <img src = "[https://static.pexels.com/photos/54283/pexels-photo-54283.jpeg](https://static.pexels.com/photos/54283/pexels-photo-54283.jpeg)">
 
 # 💫 About Me:
-👋 Hey there! Welcome to my GitHub profile!<br><br>I'm Ruvini Rangathara, a passionate software engineering student currently interning at Kingteza Software Solutions (Pvt) Ltd. I'm enthusiastic about creating practical solutions through code and always eager to explore new technologies.<br><br>
+👋 Hey there! Welcome to my GitHub profile!<br><br>I'm Suraj Maurya, Motivated Full Stack Web Developer with expertise in JavaScript, React.js, Node.js, Express.js, and MongoDB. Coming from a vehicle auditing background, I bring strong analytical skills and attention to detail. Passionate about coding, I have built hands-on projects showcasing user-friendly interfaces, API development, and real-time functionalities.<br><br>
 
 📚 Education:<br>I'm currently studying Higher National Diploma at Institute Of Software Engineering (IJSE).<br><br>
 
