@@ -1,5 +1,3 @@
-<img src="images/pexels-photo-54283.jpeg" alt="Background Image" width="100%">
-
 # 💫 About Me:
 
 👋 Hey there! Welcome to my GitHub profile!<br><br>
