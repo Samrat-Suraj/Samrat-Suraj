@@ -1,4 +1,4 @@
-<img src="https://www.pexels.com/photo/close-up-photo-of-programming-of-codes-546819/" alt="Background Image" width="100%">
+<img src="images/pexels-photo-54283.jpeg" alt="Background Image" width="100%">
 
 # 💫 About Me:
 
