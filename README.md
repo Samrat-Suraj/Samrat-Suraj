@@ -11,7 +11,7 @@ Happy coding! 😄
 
 ## 🌐 Links:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ruvini.rangathara.96)
+[![Facebook](https://img.shields.io/badge/Mail-%231877F2.svg?logo=Mail&logoColor=white)](samratsuraj10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sooraj-mourya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?logo=Portfolio&logoColor=white)](https://samratsuraj.netlify.app/)
 
