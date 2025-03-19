@@ -11,9 +11,9 @@ Happy coding! 😄
 
 ## 🌐 Links:
 
-[![Facebook](https://img.shields.io/badge/Mail-%231877F2.svg?logo=Mail&logoColor=white)](samratsuraj10@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/sooraj-mourya/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?logo=Portfolio&logoColor=white)](https://samratsuraj.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samratsuraj10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sooraj-mourya/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=website&logoColor=white)](https://samratsuraj.netlify.app/)
 
 # 💻 Tech Stack:
 
