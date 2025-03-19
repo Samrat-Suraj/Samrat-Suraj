@@ -10,8 +10,8 @@
 Thanks for visiting my GitHub profile, and I look forward to connecting with you!<br><br>Happy coding! 😄
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ruvini.rangathara.96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sooraj-mourya/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ruvinisubhasinghe200009) 
+## 🌐 Links:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ruvini.rangathara.96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sooraj-mourya/) [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?logo=medium&logoColor=white)](https://samratsuraj.netlify.app/) 
 
 # 💻 Tech Stack:
 
