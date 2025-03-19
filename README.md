@@ -1,4 +1,4 @@
-<img src="https://static.pexels.com/photos/54283/pexels-photo-54283.jpeg" alt="Background Image" width="100%">
+<img src="[https://static.pexels.com/photos/54283/pexels-photo-54283.jpeg](https://avatars.githubusercontent.com/u/143329360?v=4)" alt="Background Image" width="100%">
 
 # 💫 About Me:
 
