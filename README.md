@@ -5,7 +5,7 @@ I'm Suraj Maurya, a motivated Full Stack Web Developer with expertise in JavaScr
 📚 Education:<br>
 Bachelor of Science (Honors) - Mathematics.<br><br>
 📫 Let's Connect:<br>
-I'm always eager to connect with fellow developers, discuss intriguing projects, and explore collaboration opportunities. Don't hesitate to reach out to me via LinkedIn — let's start a conversation!<br><br>
+I'm always eager to connect with fellow developers, discuss intriguing projects, and explore collaboration opportunities. Don't hesitate to reach out to me via LinkedIn . let's start a conversation!<br><br>
 Thanks for visiting my GitHub profile, and I look forward to connecting with you!<br><br>
 Happy coding! 😄
 
